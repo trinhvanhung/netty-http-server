@@ -1,6 +1,5 @@
 .idea
 netty-http-server.iml
-target
 data/db.mv.db
 connecitons_table_test.sql
 redirects_table_test.sql
